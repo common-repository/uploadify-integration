@@ -1,0 +1,1 @@
+<div id="message" class="updated"><p>Uploadify Integration - Default File Size Limit: <?php echo Uploadify_Model_Settings::getUploadMaxFilesizeInt() ?>M</p></div>
